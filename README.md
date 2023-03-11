@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
- <img alt="FocusTimer Project" src="" width="100%">
+ <img alt="UI Twitter Project" src="./public/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O UI Twitter é um projeto feito como clone da Timeline do Twitter com o intuito de por o aprendizado de React em prática.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://ui-twitter-eg4ir1r8v-analuisadev.vercel.app/)
 
 
 ## :memo: Licença
